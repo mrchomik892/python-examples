@@ -18,4 +18,4 @@ print("ipv6", ipv6)
 
 time.sleep(0.5)
 
-print("virtualized" virtualized)
+print("virtualized", virtualized)
